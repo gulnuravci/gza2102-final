@@ -1,2 +1,5 @@
 # gza2102-final
-python final
+Gulnur Avci
+UNI: gza2102
+Final
+
